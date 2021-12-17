@@ -7,8 +7,6 @@
 
    Workflow file: https://github.com/infixe/githubactions3/actions
 
-2) This page is also connected to <a href='https://github.com/infixe/GitGram'> GitGram</a> via a webhook and the app is deployed on <a href='https://gitupdates.herokuapp.com/'>Heroku</a>. 
-
-3) <a href='https://t.me/+Q_W584iiPGYwNjZl'>Get Updates</a> - join this group to receive updates on this repo. 
+2) This repo is also connected to the <a href='https://github.com/infixe/GitGram'> GitGram</a> Telegram bot via a webhook. The GitGram app is deployed on <a href='https://gitupdates.herokuapp.com/'>Heroku</a> and users can join <a href='https://t.me/+Q_W584iiPGYwNjZl'> this group</a> to receive notifcations of updates on this repo. 
 
   
